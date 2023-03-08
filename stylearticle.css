@@ -1,0 +1,25 @@
+body{
+	padding:42px;
+	margin:0;
+}
+article{
+	width:100%;
+}
+.p1{
+	width:578px;
+	text-align:left;
+}
+.p2{
+	width:578px;
+}
+.p3{
+	width:578px;	
+	float:right;
+}
+div{
+	width:578px;
+	float:right;
+}
+hr{
+  width:100%;
+}
